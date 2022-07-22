@@ -1,0 +1,3 @@
+Keystore Pass: Floward@2022
+Alias: floward
+Alias Pass: Floward@2022
